@@ -15,8 +15,6 @@ Here is one Project based on this MlOps problem, and I have taken Mnist dataset.
 
 Object:- when we learn our machine then , model will automatically predict and show higher accuracy.
 
-GitHub Link - https://github.com/ashwinimandani/task3
-
 Task description
 1. Create container image that’s has Python3 and Keras or numpy installed using dockerfile. 
 
