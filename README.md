@@ -1,16 +1,14 @@
 # Machine_Learning_Automation
 
-Thid id my project Machine learning also using git hub and jenkins and also docker container approch
-
+This id my project Machine learning also using git hub and jenkins and also docker container approch.
 
 MLOps is a practice for collaboration and communication between data scientists and operations professionals to help manage production ML lifecycle.
 
-we , humens try to make our woking easy thats why we learnt that how to make our machine able to learn and  show some results on the basis of data set.
+we , humens  always try to make our woking easy thats why we learnt that how to make our machine able to learn and  show some results on the basis of data set.
 
-Here , we are integrating ML with git (devops) to continuous devployment and working.
+Here , we are integrating ML with git (devops) for continuous devployment and working.
 
-
-Here is one Project based on this MlOps problem, and I have taken Mnist dataset. and tried to automate its training and get some more accuracy.
+Here , Project based on this MlOps problem, and I have taken Mnist dataset. and tried to automate its training and get some more accuracy.
 
 
 Object:- when we learn our machine then , model will automatically predict and show higher accuracy.
